@@ -1,8 +1,8 @@
 # Stock API
 
-API REST de controle de estoque desenvolvida com Spring Boot.
+Inventory management REST API developed with Spring Boot.
 
-## Tecnologias
+## Technologies
 
 - Java
 - Spring Boot
@@ -10,12 +10,12 @@ API REST de controle de estoque desenvolvida com Spring Boot.
 - H2 Database
 - Maven
 
-## Funcionalidades
+## Features
 
-- Listar produtos
-- Cadastrar produtos
-- Atualizar produtos
-- Deletar produtos
+- Create products
+- Read products
+- Update products
+- Delete products
 
 ## Endpoints
 
@@ -27,6 +27,6 @@ PUT /produtos/{id}
 
 DELETE /produtos/{id}
 
-## Objetivo
+## Objective
 
-Projeto desenvolvido para praticar CRUD e APIs REST com Spring Boot.
+Project developed to practice CRUD and REST APIs with Spring Boot.
